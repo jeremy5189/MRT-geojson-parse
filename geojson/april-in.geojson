@@ -18,7 +18,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 1216503,
-                "rank": 5
+                "rank": 5,
+                "rank-percentage": "4%"
             },
             "geometry": {
                 "type": "Point",
@@ -39,7 +40,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 233933,
-                "rank": 84
+                "rank": 84,
+                "rank-percentage": "78%"
             },
             "geometry": {
                 "type": "Point",
@@ -60,7 +62,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 284229,
-                "rank": 75
+                "rank": 75,
+                "rank-percentage": "70%"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +84,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 351836,
-                "rank": 62
+                "rank": 62,
+                "rank-percentage": "57%"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +106,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 77220,
-                "rank": 105
+                "rank": 105,
+                "rank-percentage": "98%"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +128,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 207033,
-                "rank": 90
+                "rank": 90,
+                "rank-percentage": "84%"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +150,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 508500,
-                "rank": 45
+                "rank": 45,
+                "rank-percentage": "42%"
             },
             "geometry": {
                 "type": "Point",
@@ -165,7 +172,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 243075,
-                "rank": 80
+                "rank": 80,
+                "rank-percentage": "74%"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +194,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 217582,
-                "rank": 89
+                "rank": 89,
+                "rank-percentage": "83%"
             },
             "geometry": {
                 "type": "Point",
@@ -207,7 +216,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 869159,
-                "rank": 14
+                "rank": 14,
+                "rank-percentage": "13%"
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +238,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 362674,
-                "rank": 61
+                "rank": 61,
+                "rank-percentage": "57%"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +260,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 683988,
-                "rank": 30
+                "rank": 30,
+                "rank-percentage": "28%"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +282,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 791308,
-                "rank": 24
+                "rank": 24,
+                "rank-percentage": "22%"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +304,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 1101811,
-                "rank": 7
+                "rank": 7,
+                "rank-percentage": "6%"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +326,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 866578,
-                "rank": 15
+                "rank": 15,
+                "rank-percentage": "14%"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +348,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 711909,
-                "rank": 27
+                "rank": 27,
+                "rank-percentage": "25%"
             },
             "geometry": {
                 "type": "Point",
@@ -354,7 +370,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 616157,
-                "rank": 35
+                "rank": 35,
+                "rank-percentage": "32%"
             },
             "geometry": {
                 "type": "Point",
@@ -375,7 +392,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 1040323,
-                "rank": 10
+                "rank": 10,
+                "rank-percentage": "9%"
             },
             "geometry": {
                 "type": "Point",
@@ -396,7 +414,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 616814,
-                "rank": 33
+                "rank": 33,
+                "rank-percentage": "30%"
             },
             "geometry": {
                 "type": "Point",
@@ -417,7 +436,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 262248,
-                "rank": 78
+                "rank": 78,
+                "rank-percentage": "72%"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +458,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 129693,
-                "rank": 97
+                "rank": 97,
+                "rank-percentage": "90%"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +480,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 68194,
-                "rank": 106
+                "rank": 106,
+                "rank-percentage": "99%"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +502,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 399527,
-                "rank": 57
+                "rank": 57,
+                "rank-percentage": "53%"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +524,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 93774,
-                "rank": 103
+                "rank": 103,
+                "rank-percentage": "96%"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +546,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 127226,
-                "rank": 98
+                "rank": 98,
+                "rank-percentage": "91%"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +568,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 324637,
-                "rank": 68
+                "rank": 68,
+                "rank-percentage": "63%"
             },
             "geometry": {
                 "type": "Point",
@@ -564,7 +590,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 417045,
-                "rank": 53
+                "rank": 53,
+                "rank-percentage": "49%"
             },
             "geometry": {
                 "type": "Point",
@@ -585,7 +612,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 616374,
-                "rank": 34
+                "rank": 34,
+                "rank-percentage": "31%"
             },
             "geometry": {
                 "type": "Point",
@@ -606,7 +634,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 438587,
-                "rank": 52
+                "rank": 52,
+                "rank-percentage": "48%"
             },
             "geometry": {
                 "type": "Point",
@@ -627,7 +656,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 326325,
-                "rank": 67
+                "rank": 67,
+                "rank-percentage": "62%"
             },
             "geometry": {
                 "type": "Point",
@@ -648,7 +678,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 405483,
-                "rank": 55
+                "rank": 55,
+                "rank-percentage": "51%"
             },
             "geometry": {
                 "type": "Point",
@@ -669,7 +700,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 505074,
-                "rank": 46
+                "rank": 46,
+                "rank-percentage": "42%"
             },
             "geometry": {
                 "type": "Point",
@@ -690,7 +722,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 552605,
-                "rank": 41
+                "rank": 41,
+                "rank-percentage": "38%"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +744,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 1646863,
-                "rank": 3
+                "rank": 3,
+                "rank-percentage": "2%"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +766,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 632583,
-                "rank": 32
+                "rank": 32,
+                "rank-percentage": "29%"
             },
             "geometry": {
                 "type": "Point",
@@ -753,7 +788,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 1066045,
-                "rank": 8
+                "rank": 8,
+                "rank-percentage": "7%"
             },
             "geometry": {
                 "type": "Point",
@@ -774,7 +810,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 1438030,
-                "rank": 4
+                "rank": 4,
+                "rank-percentage": "3%"
             },
             "geometry": {
                 "type": "Point",
@@ -795,7 +832,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 560461,
-                "rank": 40
+                "rank": 40,
+                "rank-percentage": "37%"
             },
             "geometry": {
                 "type": "Point",
@@ -816,7 +854,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 460114,
-                "rank": 49
+                "rank": 49,
+                "rank-percentage": "45%"
             },
             "geometry": {
                 "type": "Point",
@@ -837,7 +876,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 988266,
-                "rank": 11
+                "rank": 11,
+                "rank-percentage": "10%"
             },
             "geometry": {
                 "type": "Point",
@@ -858,7 +898,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 692952,
-                "rank": 29
+                "rank": 29,
+                "rank-percentage": "27%"
             },
             "geometry": {
                 "type": "Point",
@@ -879,7 +920,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 816635,
-                "rank": 23
+                "rank": 23,
+                "rank-percentage": "21%"
             },
             "geometry": {
                 "type": "Point",
@@ -900,7 +942,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 1058260,
-                "rank": 9
+                "rank": 9,
+                "rank-percentage": "8%"
             },
             "geometry": {
                 "type": "Point",
@@ -921,7 +964,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 817879,
-                "rank": 22
+                "rank": 22,
+                "rank-percentage": "20%"
             },
             "geometry": {
                 "type": "Point",
@@ -942,7 +986,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 535514,
-                "rank": 43
+                "rank": 43,
+                "rank-percentage": "40%"
             },
             "geometry": {
                 "type": "Point",
@@ -963,7 +1008,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 198818,
-                "rank": 92
+                "rank": 92,
+                "rank-percentage": "85%"
             },
             "geometry": {
                 "type": "Point",
@@ -984,7 +1030,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 462928,
-                "rank": 48
+                "rank": 48,
+                "rank-percentage": "44%"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1052,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 567968,
-                "rank": 39
+                "rank": 39,
+                "rank-percentage": "36%"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,7 +1074,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 722998,
-                "rank": 26
+                "rank": 26,
+                "rank-percentage": "24%"
             },
             "geometry": {
                 "type": "Point",
@@ -1047,7 +1096,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 1186955,
-                "rank": 6
+                "rank": 6,
+                "rank-percentage": "5%"
             },
             "geometry": {
                 "type": "Point",
@@ -1068,7 +1118,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 583532,
-                "rank": 37
+                "rank": 37,
+                "rank-percentage": "34%"
             },
             "geometry": {
                 "type": "Point",
@@ -1089,7 +1140,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 199666,
-                "rank": 91
+                "rank": 91,
+                "rank-percentage": "85%"
             },
             "geometry": {
                 "type": "Point",
@@ -1110,7 +1162,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 824425,
-                "rank": 21
+                "rank": 21,
+                "rank-percentage": "19%"
             },
             "geometry": {
                 "type": "Point",
@@ -1131,7 +1184,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 926922,
-                "rank": 12
+                "rank": 12,
+                "rank-percentage": "11%"
             },
             "geometry": {
                 "type": "Point",
@@ -1152,7 +1206,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 865064,
-                "rank": 16
+                "rank": 16,
+                "rank-percentage": "14%"
             },
             "geometry": {
                 "type": "Point",
@@ -1173,7 +1228,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 4548318,
-                "rank": 1
+                "rank": 1,
+                "rank-percentage": "0%"
             },
             "geometry": {
                 "type": "Point",
@@ -1194,7 +1250,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 2047510,
-                "rank": 2
+                "rank": 2,
+                "rank-percentage": "1%"
             },
             "geometry": {
                 "type": "Point",
@@ -1215,7 +1272,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 840169,
-                "rank": 19
+                "rank": 19,
+                "rank-percentage": "17%"
             },
             "geometry": {
                 "type": "Point",
@@ -1236,7 +1294,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 275419,
-                "rank": 76
+                "rank": 76,
+                "rank-percentage": "71%"
             },
             "geometry": {
                 "type": "Point",
@@ -1257,7 +1316,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 399641,
-                "rank": 56
+                "rank": 56,
+                "rank-percentage": "52%"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1338,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 373481,
-                "rank": 59
+                "rank": 59,
+                "rank-percentage": "55%"
             },
             "geometry": {
                 "type": "Point",
@@ -1299,7 +1360,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 157320,
-                "rank": 95
+                "rank": 95,
+                "rank-percentage": "88%"
             },
             "geometry": {
                 "type": "Point",
@@ -1320,7 +1382,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 232829,
-                "rank": 86
+                "rank": 86,
+                "rank-percentage": "80%"
             },
             "geometry": {
                 "type": "Point",
@@ -1341,7 +1404,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 104387,
-                "rank": 101
+                "rank": 101,
+                "rank-percentage": "94%"
             },
             "geometry": {
                 "type": "Point",
@@ -1362,7 +1426,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 225447,
-                "rank": 87
+                "rank": 87,
+                "rank-percentage": "81%"
             },
             "geometry": {
                 "type": "Point",
@@ -1383,7 +1448,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 232973,
-                "rank": 85
+                "rank": 85,
+                "rank-percentage": "79%"
             },
             "geometry": {
                 "type": "Point",
@@ -1404,7 +1470,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 89190,
-                "rank": 104
+                "rank": 104,
+                "rank-percentage": "97%"
             },
             "geometry": {
                 "type": "Point",
@@ -1425,7 +1492,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 570365,
-                "rank": 38
+                "rank": 38,
+                "rank-percentage": "35%"
             },
             "geometry": {
                 "type": "Point",
@@ -1462,7 +1530,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 264362,
-                "rank": 77
+                "rank": 77,
+                "rank-percentage": "71%"
             },
             "geometry": {
                 "type": "Point",
@@ -1483,7 +1552,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 862998,
-                "rank": 18
+                "rank": 18,
+                "rank-percentage": "16%"
             },
             "geometry": {
                 "type": "Point",
@@ -1504,7 +1574,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 104014,
-                "rank": 102
+                "rank": 102,
+                "rank-percentage": "95%"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1596,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 449800,
-                "rank": 50
+                "rank": 50,
+                "rank-percentage": "46%"
             },
             "geometry": {
                 "type": "Point",
@@ -1562,7 +1634,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 375607,
-                "rank": 58
+                "rank": 58,
+                "rank-percentage": "54%"
             },
             "geometry": {
                 "type": "Point",
@@ -1583,7 +1656,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 594699,
-                "rank": 36
+                "rank": 36,
+                "rank-percentage": "33%"
             },
             "geometry": {
                 "type": "Point",
@@ -1604,7 +1678,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 736331,
-                "rank": 25
+                "rank": 25,
+                "rank-percentage": "23%"
             },
             "geometry": {
                 "type": "Point",
@@ -1625,7 +1700,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 697688,
-                "rank": 28
+                "rank": 28,
+                "rank-percentage": "26%"
             },
             "geometry": {
                 "type": "Point",
@@ -1646,7 +1722,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 442954,
-                "rank": 51
+                "rank": 51,
+                "rank-percentage": "47%"
             },
             "geometry": {
                 "type": "Point",
@@ -1667,7 +1744,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 238334,
-                "rank": 83
+                "rank": 83,
+                "rank-percentage": "77%"
             },
             "geometry": {
                 "type": "Point",
@@ -1688,7 +1766,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 248783,
-                "rank": 79
+                "rank": 79,
+                "rank-percentage": "73%"
             },
             "geometry": {
                 "type": "Point",
@@ -1709,7 +1788,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 114594,
-                "rank": 99
+                "rank": 99,
+                "rank-percentage": "92%"
             },
             "geometry": {
                 "type": "Point",
@@ -1730,7 +1810,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 323851,
-                "rank": 69
+                "rank": 69,
+                "rank-percentage": "64%"
             },
             "geometry": {
                 "type": "Point",
@@ -1751,7 +1832,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 328876,
-                "rank": 66
+                "rank": 66,
+                "rank-percentage": "61%"
             },
             "geometry": {
                 "type": "Point",
@@ -1772,7 +1854,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 330769,
-                "rank": 65
+                "rank": 65,
+                "rank-percentage": "60%"
             },
             "geometry": {
                 "type": "Point",
@@ -1793,7 +1876,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 340461,
-                "rank": 63
+                "rank": 63,
+                "rank-percentage": "58%"
             },
             "geometry": {
                 "type": "Point",
@@ -1814,7 +1898,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 337965,
-                "rank": 64
+                "rank": 64,
+                "rank-percentage": "59%"
             },
             "geometry": {
                 "type": "Point",
@@ -1835,7 +1920,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 320556,
-                "rank": 70
+                "rank": 70,
+                "rank-percentage": "65%"
             },
             "geometry": {
                 "type": "Point",
@@ -1856,7 +1942,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 109579,
-                "rank": 100
+                "rank": 100,
+                "rank-percentage": "93%"
             },
             "geometry": {
                 "type": "Point",
@@ -1877,7 +1964,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 139554,
-                "rank": 96
+                "rank": 96,
+                "rank-percentage": "89%"
             },
             "geometry": {
                 "type": "Point",
@@ -1898,7 +1986,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 301725,
-                "rank": 73
+                "rank": 73,
+                "rank-percentage": "68%"
             },
             "geometry": {
                 "type": "Point",
@@ -1919,7 +2008,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 891690,
-                "rank": 13
+                "rank": 13,
+                "rank-percentage": "12%"
             },
             "geometry": {
                 "type": "Point",
@@ -1940,7 +2030,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 65068,
-                "rank": 107
+                "rank": 107,
+                "rank-percentage": "100%"
             },
             "geometry": {
                 "type": "Point",
@@ -1961,7 +2052,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 166015,
-                "rank": 93
+                "rank": 93,
+                "rank-percentage": "86%"
             },
             "geometry": {
                 "type": "Point",
@@ -1982,7 +2074,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 371793,
-                "rank": 60
+                "rank": 60,
+                "rank-percentage": "56%"
             },
             "geometry": {
                 "type": "Point",
@@ -2003,7 +2096,8 @@
                 "marker-size": "large",
                 "marker-symbol": "circle-stroked",
                 "count": 649646,
-                "rank": 31
+                "rank": 31,
+                "rank-percentage": "28%"
             },
             "geometry": {
                 "type": "Point",
@@ -2024,7 +2118,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 316091,
-                "rank": 72
+                "rank": 72,
+                "rank-percentage": "67%"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2140,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 239876,
-                "rank": 81
+                "rank": 81,
+                "rank-percentage": "75%"
             },
             "geometry": {
                 "type": "Point",
@@ -2066,7 +2162,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 239260,
-                "rank": 82
+                "rank": 82,
+                "rank-percentage": "76%"
             },
             "geometry": {
                 "type": "Point",
@@ -2103,7 +2200,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 223780,
-                "rank": 88
+                "rank": 88,
+                "rank-percentage": "82%"
             },
             "geometry": {
                 "type": "Point",
@@ -2124,7 +2222,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "count": 412897,
-                "rank": 54
+                "rank": 54,
+                "rank-percentage": "50%"
             },
             "geometry": {
                 "type": "Point",
@@ -2145,7 +2244,8 @@
                 "marker-size": "small",
                 "marker-symbol": "",
                 "count": 291902,
-                "rank": 74
+                "rank": 74,
+                "rank-percentage": "69%"
             },
             "geometry": {
                 "type": "Point",

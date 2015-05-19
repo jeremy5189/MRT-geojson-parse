@@ -71,6 +71,7 @@ function updateColor( name, code, count, rank ) {
         	geoJSON.features[i].properties["marker-symbol"] = symbol;
         	geoJSON.features[i].properties["count"] = count;
         	geoJSON.features[i].properties["rank"] = rank;
+        	geoJSON.features[i].properties["rank-percentage"] = Math.floor(rank/107*100) + '%';
 
 			break;
 		}
